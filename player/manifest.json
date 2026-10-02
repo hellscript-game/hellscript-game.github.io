@@ -82,12 +82,12 @@
     },
     {
       "path": "index.html",
-      "bytes": 7115,
-      "sha256": "4c6f079c4a2a347c91d9fdf6023a3fca868c0ba7734e7c79f1cd3809defa764e",
+      "bytes": 7338,
+      "sha256": "c51add132ec921d15ef09feb4236b23b6acc6c2aecdb0962d7aee2407585069f",
       "parts": [
         {
-          "path": "objects/4c6f079c4a2a347c91d9fdf6023a3fca868c0ba7734e7c79f1cd3809defa764e.000",
-          "sha256": "4c6f079c4a2a347c91d9fdf6023a3fca868c0ba7734e7c79f1cd3809defa764e"
+          "path": "objects/c51add132ec921d15ef09feb4236b23b6acc6c2aecdb0962d7aee2407585069f.000",
+          "sha256": "c51add132ec921d15ef09feb4236b23b6acc6c2aecdb0962d7aee2407585069f"
         }
       ]
     }
