@@ -37,17 +37,6 @@
       ]
     },
     {
-      "path": "Build/41a3b4f07039b69644a13bfc48c70275.loader.js",
-      "bytes": 48779,
-      "sha256": "5e9cd3bad31d38351c5b46a94496c11ff3632b32be9e492498932cb6389677bf",
-      "parts": [
-        {
-          "path": "objects/5e9cd3bad31d38351c5b46a94496c11ff3632b32be9e492498932cb6389677bf.000",
-          "sha256": "5e9cd3bad31d38351c5b46a94496c11ff3632b32be9e492498932cb6389677bf"
-        }
-      ]
-    },
-    {
       "path": "Build/42a730e21095f8228f2dd970829cfb25.wasm.unityweb",
       "bytes": 9479099,
       "sha256": "ad41fccc9c0740616e35165ad8a4695305d5a792d1ea8d87857a6c5038787308",
@@ -70,17 +59,6 @@
       ]
     },
     {
-      "path": "Build/8122710398ca123518e686961f408bdb.wasm.unityweb",
-      "bytes": 9474152,
-      "sha256": "4a7da5f4b3247b137d5760001109501c89580d750bb90f8e73921b652549fa21",
-      "parts": [
-        {
-          "path": "objects/4a7da5f4b3247b137d5760001109501c89580d750bb90f8e73921b652549fa21.000",
-          "sha256": "4a7da5f4b3247b137d5760001109501c89580d750bb90f8e73921b652549fa21"
-        }
-      ]
-    },
-    {
       "path": "Build/dd0f610a8c5f517a337ee28f4ee802d7.framework.js.unityweb",
       "bytes": 78147,
       "sha256": "6bdaff98099517d23926db2f071333c4d46bdc7d59d134c7601e521285a85a45",
@@ -88,29 +66,6 @@
         {
           "path": "objects/6bdaff98099517d23926db2f071333c4d46bdc7d59d134c7601e521285a85a45.000",
           "sha256": "6bdaff98099517d23926db2f071333c4d46bdc7d59d134c7601e521285a85a45"
-        }
-      ]
-    },
-    {
-      "path": "Build/e53e98b693aaa7c5fbc3caf44437be50.data.unityweb",
-      "bytes": 171209033,
-      "sha256": "d2eaee3236aae9bd43c72f30c654d15dcfd3729bb50ac162bc962425c7319435",
-      "parts": [
-        {
-          "path": "objects/d2eaee3236aae9bd43c72f30c654d15dcfd3729bb50ac162bc962425c7319435.000",
-          "sha256": "5592774711ac987df6452742933bc16c9a444f01b0f2d9a478bad3c6e33aa8c6"
-        },
-        {
-          "path": "objects/d2eaee3236aae9bd43c72f30c654d15dcfd3729bb50ac162bc962425c7319435.001",
-          "sha256": "2770b80d785517ebcb43b958a2e4fcb70b052ad43ae7362bb364f44c0b14c300"
-        },
-        {
-          "path": "objects/d2eaee3236aae9bd43c72f30c654d15dcfd3729bb50ac162bc962425c7319435.002",
-          "sha256": "e76078bd1176387b4f458b107a9967d2dc8a2974e7d88f1cebcd305b88c15cae"
-        },
-        {
-          "path": "objects/d2eaee3236aae9bd43c72f30c654d15dcfd3729bb50ac162bc962425c7319435.003",
-          "sha256": "f75df2cfb478bf8cfa377dd0254bfde86e694f24b9cb26c79e3821ad9be7d51c"
         }
       ]
     },
