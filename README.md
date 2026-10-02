@@ -1,10 +1,14 @@
 # HELLSCRIPT Web
 
-[게임 플레이 / Play](https://dakrdong.github.io/HELLSCRIPT-Web/)
+[게임 플레이 / Play](https://hellscript-game.github.io/)
 
 브라우저에서 실행하는 HELLSCRIPT의 게스트 버전입니다. 진행 상황은 현재 브라우저에 저장됩니다. 브라우저 데이터를 삭제하면 저장도 삭제됩니다. 다른 탭으로 이동하면 사냥이 일시정지됩니다. Google 로그인과 기기 간 저장 동기화는 제공하지 않습니다.
 
 This is the browser guest edition of HELLSCRIPT. Progress is saved in this browser. Clearing browser data deletes your save. Hunting pauses when you leave the tab. Google sign-in and cross-device synchronization are not included.
+
+[이전 플레이 주소 / Previous play address](https://dakrdong.github.io/HELLSCRIPT-Web/)도 유지합니다. 이전 주소의 저장은 새 주소로 자동 이전되지 않습니다. 기존 진행을 계속하려면 이전 주소를 이용하세요.
+
+The previous play address remains available. Browser saves do not transfer automatically to the new address. Continue at the previous address to keep playing an existing save.
 
 ## 배포 / Deployment
 
