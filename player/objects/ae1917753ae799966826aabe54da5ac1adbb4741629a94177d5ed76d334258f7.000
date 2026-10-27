@@ -58,9 +58,9 @@ async function load(){
   try{await checkStorage();}catch(error){fail('storage',error);return;}
   const config={
     arguments:[],
-    dataUrl:'Build/e924d6e8ab24225c6f9e2a0fdd57c64d.data.unityweb',
+    dataUrl:'Build/84fe8fcfa1a2b226a6795758792dfee1.data.unityweb',
     frameworkUrl:'Build/67eae922aa4f9dc1806bfa6ef6ae452f.framework.js.unityweb',
-    codeUrl:'Build/2d79ae622f663cac7b99203f22d22f15.wasm.unityweb',
+    codeUrl:'Build/17628874286c836fce77a6c34ae111e0.wasm.unityweb',
     streamingAssetsUrl:'StreamingAssets',
     companyName:"DefaultCompany",
     productName:"HELLSCRIPT",
@@ -69,7 +69,7 @@ async function load(){
     devicePixelRatio:Math.min(window.devicePixelRatio||1,1.5),
     showBanner:(message,type)=>{if(type==='error')fail('error',message);else console.warn(message);}
   };
-  const script=document.createElement('script');script.src='Build/c44e8d2a44cabd98dd9ed142ba17930a.loader.js';
+  const script=document.createElement('script');script.src='Build/d368dc6ad445efd76d59fd21229bc2bc.loader.js';
   script.onerror=()=>fail('error','loader unavailable');
   script.onload=async()=>{try{instance=await createUnityInstance(canvas,config,value=>{progress.value=value;});state='ready';progress.value=1;start.disabled=false;render();}catch(error){fail('error',error);}};
   document.body.appendChild(script);
